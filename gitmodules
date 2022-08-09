@@ -1,0 +1,3 @@
+[submodule "newsmagazine"]
+    path = newsmagazine
+    url = https://github.com/Belal-Qasimi/newsmagazine
